@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Allitem</name>
+   <tag></tag>
+   <elementGuidId>bcd5fdac-a326-4e4a-94eb-7bc9140307eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id='inventory_sidebar_link']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id='inventory_sidebar_link']</value>
+      <webElementGuid>555ca03f-ecb0-46f7-b8d5-53d3efa002eb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

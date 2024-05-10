@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Resetappstate</name>
+   <tag></tag>
+   <elementGuidId>8f9277d5-ac2c-468d-b8f0-ccc0ab6717bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id='reset_sidebar_link']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id='reset_sidebar_link']</value>
+      <webElementGuid>45a23f76-2e32-4f29-b791-7221172231ff</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

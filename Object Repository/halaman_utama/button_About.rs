@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_About</name>
+   <tag></tag>
+   <elementGuidId>f7d5ef2d-3266-4032-972f-7449980f978a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id='about_sidebar_link']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id='about_sidebar_link']</value>
+      <webElementGuid>596e2876-e8f7-4afd-8cb9-50f57add8f0b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC001-Berhasil-login</name>
+   <name>clickButtonLogout</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>08af4300-f533-4054-8472-da59ef7942ff</testCaseGuid>
+   <testCaseGuid>a6961da3-5941-4c62-8d08-9f5045184bcc</testCaseGuid>
 </TestCaseEntity>

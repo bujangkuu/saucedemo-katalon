@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_logout</name>
+   <tag></tag>
+   <elementGuidId>56d23a62-7957-4e71-8f4c-61fefc0bc550</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id='logout_sidebar_link']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id='logout_sidebar_link']</value>
+      <webElementGuid>26ebacb6-255b-4382-a4ae-c13a7338c87c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

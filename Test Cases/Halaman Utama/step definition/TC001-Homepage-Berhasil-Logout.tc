@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001-Homepage-Berhasil-Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49ebf97a-828c-43f6-b878-e53e4050b0cd</testCaseGuid>
+</TestCaseEntity>
